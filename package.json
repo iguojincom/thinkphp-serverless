@@ -1,0 +1,14 @@
+{
+  "name": "serverlessThinkphp",
+  "version": "1.0.0",
+  "description": "serverless运行thinkphp",
+  "main": "index.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "cloud.tencent.com",
+  "license": "MIT",
+  "devDependencies": {
+    "serverless-tencent-scf": "^0.1.7"
+  }
+}

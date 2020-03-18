@@ -1,0 +1,10 @@
+/.idea
+/.vscode
+*.log
+.env
+.DS_Store
+/.scf_build
+/.serverless
+/node_modules
+/package-lock.json
+/*.env_temp
